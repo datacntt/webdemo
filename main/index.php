@@ -5,7 +5,7 @@ session_start();
 <html lang="vi">
 <head>
  <meta charset="utf-8" />
-    <title>Kho tài liệu trực tuyến-www.tailieutructuyen.vn</title>
+    <title>Kho tài liệu trực tuyến</title>
     <meta name="author" content="Trần Đông" />
     <meta name="description" content="Học làm web đơn giản" />
     <meta name="keyword" content="Hoc html, huong dan html, html co ban" />
